@@ -16,5 +16,5 @@ If case of questions or comments or if you find a bug, please contact Koenraad B
 GEOPHIRES v2.0 is distributed as open-source under the Creative Commons copyright license CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
 
 ## Version
-GEOPHIRES v2.0 Build Date: June 6th, 2018
-GitHub Folder Latest Update: June 6th, 2018
+- GEOPHIRES v2.0 Build Date: June 6th, 2018
+- GitHub Folder Latest Update: June 6th, 2018
