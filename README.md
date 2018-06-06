@@ -1,13 +1,20 @@
 # GEOPHIRES v2.0
-Version Date: June 6th, 2018
+## GEOPHIRES v2.0 Description
+GEOPHIRES v2.0 is a free and open-source geothermal techno-economic simulator. GEOPHIRES combines reservoir, wellbore, surface plant, and economic models to estimate the capital and operation and maintenance costs, instantaneous and lifetime energy production, and overall levelized cost of energy of a geothermal plant. Various reservoir conditions (EGS, doublets, etc.) and end-use options (electricity, direct-use heat, cogeneration) can be modeled. The tool can be coupled to the external reservoir simulation TOUGH2. Users are encouraged to build upon to the GEOPHIRES v2.0 framework to implement their own correlations and models.
 
+## GitHub Folder Info
 This GitHub folder contains the following folders and files:
 - GEOPHIRESv2.py: GEOPHIRES v2 python code
 - GEOPHIRES v2.0 User Manual.pdf: User manual including quick start guide and list of all input parameters.
 - References: Folder containing reference documents on GEOPHIRES
 - Examples: Folder containing example problems
 
-If case of questions or comments or if you find a bug, please contact Koenraad Beckers (koenraad.beckers@nrel.gov) or Kevin McCabe (kevin.mccabe@nrel.gov).
+## Contact
+If case of questions or comments or if you find a bug, please contact Koenraad Beckers (koenraad.beckers@nrel.gov) or Kevin McCabe (kevin.mccabe@nrel.gov)
 
-License
+## License
 GEOPHIRES v2.0 is distributed as open-source under the Creative Commons copyright license CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)
+
+## Version
+GEOPHIRES v2.0 Build Date: June 6th, 2018
+GitHub Folder Latest Update: June 6th, 2018
